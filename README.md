@@ -4,6 +4,10 @@
 
 This project provides a Python script (`main.py`) that allows you to fine-tune the OpenAI GPT-3.5 Turbo model by uploading a training data file. It automates the process of uploading the file, creating a fine-tuning job, and waiting for the job to complete.
 
+## Showcase
+
+![746fa145c408580e91157127f97ad9adfb133022](https://github.com/H0llyW00dzZ/OpenAI-API/assets/17626300/35cf161e-795e-409b-9168-08da9049dc78)
+
 ## Prerequisites
 
 Before using the `main.py` script, make sure you have the following prerequisites:
