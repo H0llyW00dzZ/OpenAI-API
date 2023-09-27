@@ -1,10 +1,10 @@
-#############################################################
-# Author : H0llyW00dzZ                                      #
-# Github : github.com/H0llyW00dzZ                           #
-# License : MIT                                             #
-# Tool : Fine-tuning OpenAI API GPT-3.5 Turbo model Uploader. #
-# Usage : python main.py --file <file.json> --token <token> #
-#############################################################
+##############################################################
+# Author : H0llyW00dzZ                                       #
+# Github : github.com/H0llyW00dzZ                            #
+# License : MIT                                              #
+# Tool : Fine-tuning OpenAI API GPT-3.5 Turbo model Uploader.#
+# Usage : python main.py --file <file.json> --token <token>  #
+##############################################################
 
 import argparse
 import requests
