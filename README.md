@@ -1,8 +1,8 @@
-# Fine-tune OpenAI API GPT-3.5 Turbo model Uploader
+# Fine-tuning OpenAI API GPT-3.5 Turbo model Uploader
 
 [![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org)
 
-This project provides a Python script (`main.py`) that allows you to fine-tune the OpenAI GPT-3.5 Turbo model by uploading a training data file. It automates the process of uploading the file, creating a fine-tuning job, and waiting for the job to complete.
+This project provides a Python script (`main.py`) that allows you to fine-tuning the OpenAI GPT-3.5 Turbo model by uploading a training data file. It automates the process of uploading the file, creating a fine-tuning job, and waiting for the job to complete.
 
 ## Showcase
 
